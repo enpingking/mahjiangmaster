@@ -1,0 +1,22 @@
+## Interface: 120005
+## Title: Mahjong Masters
+## Title-zhCN: 麻将大师
+## IconTexture: Interface\AddOns\MaJiang\Ui\img\mj.png
+## Notes: 4-player mahjong solo/PvP
+## Notes-zhCN: 4人麻将对战与单人模式
+## Author: 晓输童
+## Version: 1.1
+## SavedVariables: MahjongMastersDB
+
+modules/core_utils.lua
+modules/i18n.lua
+locales/zhCN.lua
+locales/enUS.lua
+modules/ruleset.lua
+modules/game_rules.lua
+modules/ai_engine.lua
+modules/scoring.lua
+modules/addon_audio.lua
+modules/addon_result_ops.lua
+modules/addon_ui_utils.lua
+MahJiang.lua

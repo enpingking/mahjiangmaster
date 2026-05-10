@@ -1,0 +1,26 @@
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor / IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Codex / OMX runtime state
+.omx/
+.history/
+
+# Temporary reference or scratch folders
+.tmp_ref_*/
+.tmp_*/
+*.tmp
+
+# Logs and local reports
+*.log
+
+# Python cache (for local test scripts/tools)
+__pycache__/
+*.pyc
+.pytest_cache/
