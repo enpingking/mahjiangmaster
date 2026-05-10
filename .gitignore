@@ -24,3 +24,12 @@ Thumbs.db
 __pycache__/
 *.pyc
 .pytest_cache/
+.context/00_secret_values.md
+.context/01_api_migration.md
+.context/02_ui_events.md
+.context/03_architecture_and_data.md
+.context/04_dev_rules.md
+.context/05_wow_api_query_playbook.md
+.context/README.md
+AGENTS.md
+.gitignore
